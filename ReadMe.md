@@ -1,26 +1,98 @@
-# 💫 About Me:
-AI Engineer & Full-Stack AI Developerspecializing in building production-grade GenAI systems and intelligent<br>applications.Experienced in designing end-to-end LLM-powered solutions, including RAG pipelines, evaluation<br>frameworks, and scalable APIs using FastAPI.Proficient in developing modular, plug-and-play AI architectures<br>with a focus on retrieval accuracy, evaluation (RAGAS, LLM-based evaluators), and performance optimization.
+# Hi, I'm Siddharth Krishna Gupta Kori
 
+**AI Engineer & Full-Stack AI Developer** — building production-grade GenAI systems, RAG pipelines, evaluation frameworks, and scalable FastAPI backends.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-k-g-kori-65133a175/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nileblue007@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Siddharth1202Kori&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Siddharth1202Kori&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Siddharth1202Kori&theme=tokyonight)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Siddharth1202Kori&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+📍 Delhi, India &nbsp;|&nbsp; 📧 nileblue007@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/siddharth-k-g-kori-65133a175/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Siddharth1202Kori&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I specialize in end-to-end LLM-powered solutions — from RAG pipeline design and retrieval optimization to LLM evaluation (RAGAS, LLM-as-a-judge) and production MLOps with Docker, GitHub Actions, and AWS SageMaker.
+
+Currently working as **Data Scientist at Prodigal AI** (Feb 2025–present).
+
+---
+
+## Tech Stack
+
+**AI / GenAI** — LangChain · LangGraph · RAG · FAISS · ChromaDB · RAGAS · DeepEval · HuggingFace · LoRA / QLoRA · MCP
+
+**Backend & MLOps** — FastAPI · Docker · AWS SageMaker · GitHub Actions · CI/CD · Supabase · PostgreSQL · MongoDB
+
+**ML / DL** — PyTorch · Scikit-learn · TensorFlow · NumPy · Pandas · MLflow
+
+**Languages** — Python · C++ · SQL · Git
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharth1202Kori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Siddharth1202Kori)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth1202Kori&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Siddharth1202Kori)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Siddharth1202Kori&theme=tokyonight&hide_border=true)](https://github.com/Siddharth1202Kori)
+
+> If images above don't load, view stats directly on [github.com/Siddharth1202Kori](https://github.com/Siddharth1202Kori)
+
+---
+
+## Featured Projects
+
+### Agentic RAG Assessment Recommendation System `[Live · Production]`
+End-to-end RAG pipeline analyzing job descriptions and recommending relevant assessments.
+- Semantic search via embeddings + ChromaDB for high-recall retrieval
+- Mistral API for context-aware, faithfulness-scored generation
+- RAGAS + LLM-as-a-judge evaluation layer (faithfulness & relevance)
+- FastAPI backend + Streamlit frontend with complete CI/CD pipeline
+
+`Python` `FastAPI` `ChromaDB` `Mistral API` `RAGAS` `Docker`
+
+---
+
+### Modular MCP-based Agent System
+Plug-and-play agent system using Model Context Protocol (MCP) for dynamic tool selection and multi-step reasoning.
+- Dynamic tool usage via structured interfaces (APIs, retrieval, processing)
+- Modular tool registry — extend without touching core logic
+- Reasoning + tool-selection loop for multi-step task execution
+
+`Python` `LLM APIs` `Tool Abstraction` `MCP`
+
+---
+
+### RAG Evaluation & Observability Pipeline
+Automated evaluation framework for production RAG systems.
+- Recall@K / Precision@K for retrieval quality measurement
+- LLM-as-a-judge via RAGAS / DeepEval for faithfulness & relevance
+- Full logging & tracing layer across inputs, outputs, and retrieved context
+- Regression testing harness for continuous pipeline improvement
+
+`Python` `RAGAS` `DeepEval` `Logging/Tracing`
+
+---
+
+### Fine-Tuned LLaMA 1.1B for CLI Code Generation
+LoRA fine-tuned a 1.1B-parameter LLaMA model on CLI command data.
+- Parameter-efficient fine-tuning with LoRA adapters
+- Static eval (BLEU / ROUGE) + dynamic eval (Mean Task Score)
+- Generates structured shell execution plans step-by-step
+
+`Python` `PyTorch` `LoRA` `LLaMA` `HuggingFace`
+
+---
+
+### Real-Time Job Data Ingestion Pipeline
+Multi-source ingestion pipeline feeding downstream RAG systems.
+- REST API + web scraping ingestion with deduplication and cleaning
+- Structured vector DB storage optimized for RAG retrieval
+
+`Python` `Scraping` `Data Pipelines` `Vector DB`
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-k-g-kori-65133a175/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nileblue007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Siddharth1202Kori)
